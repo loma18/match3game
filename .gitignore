@@ -1,0 +1,32 @@
+# 通用
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.iml
+.project
+.classpath
+.settings/
+
+# 前端
+match3-game/node_modules/
+match3-game/dist/
+match3-game/.env
+match3-game/coverage/
+match3-game/npm-debug.log*
+match3-game/yarn-debug.log*
+match3-game/yarn-error.log*
+match3-game/.vite/
+
+# 后端
+match3-server/target/
+match3-server/.mvn/
+match3-server/mvnw
+match3-server/mvnw.cmd
+match3-server/data/
+match3-server/src/main/resources/static/
+match3-server/src/main/resources/templates/
+match3-server/HELP.md
+match3-server/.factorypath
+match3-server/.gradle/
+match3-server/build/ 
